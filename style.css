@@ -12,15 +12,3 @@ body {
   font-family: "Monaco", monospace;
   background-size: 100%;
 }
-
-footer {
-  font-family: "Monaco", monospace;
-}
-
-a:hover {
-  color: #7697b6;
-}
-
-.img-container {
-  padding-top: 35px;
-}
