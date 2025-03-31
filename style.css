@@ -1,52 +1,16 @@
 html {
   scroll-behavior: smooth;
-  background: url(work-img.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-#navigation span {
-  background-color: rgb(80, 82, 82);
-  text-align: center;
-  border-radius: 25px;
-}
-
 body {
   position: relative;
-  color: white;
+  color: black;
+  font-family: "Monaco", monospace;
   background-size: 100%;
-}
-
-.flex-container {
-  background-color: black;
-  opacity: 0.5;
-  display: flex;
-  position: relative;
-  padding: 50px;
-  border-radius: 10px;
-  font-family: "Monaco", monospace;
-}
-
-#list {
-  font-size: 22px;
-}
-
-h1 {
-  font-family: "Monaco", monospace;
-  color: white;
-}
-
-p {
-  color: rgb(80, 82, 82);
-}
-
-a {
-  font-family: "Monaco", monospace;
-  color: white;
-  text-decoration: none;
-  padding: 15px;
 }
 
 footer {
