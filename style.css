@@ -9,8 +9,7 @@ html {
 body {
   color: black;
   font-family: "Monaco", monospace;
-  position: relative;
-  margin: 1%;
+  margin: auto;
 }
 
 .img-container {
