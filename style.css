@@ -9,18 +9,14 @@ html {
 body {
   color: black;
   font-family: "Monaco", monospace;
-  margin: auto;
 }
 
 .img {
-  position: relative;
+  max-width: 100%;
+  height: auto;
 }
 
 .text {
-  left: 0;
-  position:absolute;
   text-align:center;
-  top: 30px;
-  width: 100%
 }
 
