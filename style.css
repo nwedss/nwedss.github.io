@@ -7,10 +7,8 @@ html {
 }
 
 body {
-  position: relative;
   color: black;
   font-family: "Monaco", monospace;
-  background-size: 100%;
 }
 
 .img-container {
